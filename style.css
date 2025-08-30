@@ -1,0 +1,19 @@
+body {font-family: Arial, sans-serif; margin: 0; background: #111; color: #ddd;}
+header {background: #000; color: white; padding: 20px; text-align: center;}
+header img {max-width: 200px; display: block; margin: 0 auto 10px;}
+nav {background: #1c1c1c; display: flex; flex-wrap: wrap; justify-content: center;}
+nav a {color: #ddd; text-decoration: none; padding: 12px 15px; display: block; transition: 0.3s; font-size: 16px;}
+nav a:hover {background: #333; color: white;}
+.hero {background: #444; color: white; padding: 80px 20px; text-align: center;}
+.hero h2 {font-size: 2em; margin: 0;}
+.container {max-width: 1000px; margin: auto; padding: 20px;}
+.section {margin: 40px 0;}
+.section h2 {color: #aaa; border-bottom: 1px solid #333; padding-bottom: 10px;}
+footer {background: #000; color: #888; text-align: center; padding: 20px; margin-top: 40px;}
+.cta-buttons {display: flex; flex-direction: column; gap: 15px; margin-top: 20px; align-items: center;}
+.cta-buttons a {text-decoration: none; padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold; width: 80%; max-width: 300px; text-align: center; transition: 0.3s;}
+.call-btn {background: #28a745;}
+.call-btn:hover {background: #218838;}
+.whatsapp-btn {background: #25D366;}
+.whatsapp-btn:hover {background: #1ebe5d;}
+@media (max-width: 600px) {.hero {padding: 50px 15px;}.hero h2 {font-size: 1.6em;}nav a {font-size: 14px; padding: 10px;}}
