@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 🔹 Titel & SEO -->
+  <title>Fahrschule Limit – Führerschein in Berlin-Neukölln</title>
+  <meta name="description" content="Fahrschule Limit in Berlin-Neukölln am Britzer Damm 5. Dein Weg zum Führerschein – kompetent, modern und zuverlässig. Jetzt informieren und anmelden!">
+  <meta name="keywords" content="Fahrschule Berlin, Fahrschule Neukölln, Führerschein Berlin, Fahrschule Limit, Führerschein Klasse B, Fahrschule Britzer Damm">
+
+  <!-- 🔹 OpenGraph (für WhatsApp, Facebook, Instagram) -->
+  <meta property="og:title" content="Fahrschule Limit – Berlin-Neukölln">
+  <meta property="og:description" content="Dein Weg zum Führerschein in Berlin-Neukölln. Fahrschule Limit am Britzer Damm 5. Jetzt anmelden!">
+  <meta property="og:image" content="https://dein-github-benutzername.github.io/fahrschule-limit/logo.png">
+  <meta property="og:url" content="https://dein-github-benutzername.github.io/fahrschule-limit">
+  <meta property="og:type" content="website">
+
+  <!-- 🔹 Favicon -->
+  <link rel="icon" href="logo.png" type="image/png">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #111;
+      color: #ddd;
+    }
+    header {
+      background: #000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 200px;
+      display: block;
+      margin: 0 auto 10px;
+    }
+    nav {
+      background: #1c1c1c;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    nav a {
+      color: #ddd;
+      text-decoration: none;
+      padding: 12px 15px;
+      display: block;
+      transition: 0.3s;
+      font-size: 16px;
+    }
+    nav a:hover {
+      background: #333;
+      color: white;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1502877338535-766e1452684a') center/cover;
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 2em;
+      margin: 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    .section {
+      margin: 40px 0;
+    }
+    .section h2 {
+      color: #aaa;
+      border-bottom: 1px solid #333;
+      padding-bottom: 10px;
+    }
+    footer {
+      background: #000;
+      color: #888;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    /* Call-to-Action Buttons */
+    .cta-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-top: 20px;
+      align-items: center;
+    }
+    .cta-buttons a {
+      text-decoration: none;
+      padding: 15px 25px;
+      border-radius: 8px;
+      color: white;
+      font-weight: bold;
+      width: 80%;
+      max-width: 300px;
+      text-align: center;
+      transition: 0.3s;
+    }
+    .call-btn {
+      background: #28a745;
+    }
+    .call-btn:hover {
+      background: #218838;
+    }
+    .whatsapp-btn {
+      background: #25D366;
+    }
+    .whatsapp-btn:hover {
+      background: #1ebe5d;
+    }
+
+    /* Mobile Optimierung */
+    @media (max-width: 600px) {
+      .hero {
+        padding: 50px 15px;
+      }
+      .hero h2 {
+        font-size: 1.6em;
+      }
+      nav a {
+        font-size: 14px;
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="Fahrschule Limit Logo">
+    <h1>Fahrschule Limit</h1>
+    <p>Am Britzer Damm 5 · 12347 Berlin-Neukölln</p>
+  </header>
+
+  <nav>
+    <a href="#kurse">Kurse</a>
+    <a href="#über-uns">Über Uns</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Dein Weg zum Führerschein</h2>
+    <p>Sicher, schnell und kompetent zum Erfolg</p>
+  </section>
+
+  <div class="container">
+    <section id="kurse" class="section">
+      <h2>Unsere Kurse</h2>
+      <p>Wir bieten Fahrunterricht für:</p>
+      <ul>
+        <li>PKW (Klasse B)</li>
+        <li>Begleitetes Fahren ab 17</li>
+        <li>Auffrischungskurse</li>
+      </ul>
+    </section>
+
+    <section id="über-uns" class="section">
+      <h2>Über Uns</h2>
+      <p>Die Fahrschule Limit begleitet dich auf deinem Weg zum Führerschein – mit modernem Fuhrpark, erfahrenen Fahrlehrern und einer freundlichen Atmosphäre.</p>
+    </section>
+
+    <section id="kontakt" class="section">
+      <h2>Kontakt</h2>
+      <p><strong>Adresse:</strong> Britzer Damm 5 · 12347 Berlin-Neukölln</p>
+      <p><strong>Telefon:</strong> 030 / 23957303</p>
+      <p><strong>Email:</strong> info@fahrschule-limit.de</p>
+      <p><strong>Öffnungszeiten:</strong><br>
+        Mo–Fr: 10:00 – 18:00 Uhr<br>
+        Sa: nach Vereinbarung
+      </p>
+
+      <!-- Buttons für Handy -->
+      <div class="cta-buttons">
+        <a href="tel:+493023957303" class="call-btn">📞 Jetzt anrufen</a>
+        <a href="https://wa.me/4917681553684" target="_blank" class="whatsapp-btn">💬 WhatsApp schreiben</a>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Britzer Damm 5 · 12347 Berlin-Neukölln</p>
+  </footer>
+
+</body>
+</html>
