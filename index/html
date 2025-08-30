@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- 🔹 Titel & SEO -->
-  <title>Fahrschule Limit – Führerschein in Berlin-Neukölln</title>
-  <meta name="description" content="Fahrschule Limit in Berlin-Neukölln am Britzer Damm 5. Dein Weg zum Führerschein – kompetent, modern und zuverlässig. Jetzt informieren und anmelden!">
+  <title>Fahrschule Limit – Deine Fahrschule in Berlin-Neukölln</title>
+  <meta name="description" content="Fahrschule Limit Britzer Damm 5 · 12347 Berlin-Neukölln. Dein Weg zum Führerschein – kompetent, modern und zuverlässig. Jetzt informieren und anmelden!">
   <meta name="keywords" content="Fahrschule Berlin, Fahrschule Neukölln, Führerschein Berlin, Fahrschule Limit, Führerschein Klasse B, Fahrschule Britzer Damm">
 
   <!-- 🔹 OpenGraph (für WhatsApp, Facebook, Instagram) -->
   <meta property="og:title" content="Fahrschule Limit – Berlin-Neukölln">
-  <meta property="og:description" content="Dein Weg zum Führerschein in Berlin-Neukölln. Fahrschule Limit am Britzer Damm 5. Jetzt anmelden!">
+  <meta property="og:description" content="Dein Weg zum Führerschein in Berlin-Neukölln. Fahrschule Limit Britzer Damm 5 · 12347 Berlin-Neukölln. Jetzt anmelden!">
   <meta property="og:image" content="https://dein-github-benutzername.github.io/fahrschule-limit/logo.png">
   <meta property="og:url" content="https://dein-github-benutzername.github.io/fahrschule-limit">
   <meta property="og:type" content="website">
@@ -137,7 +137,7 @@
   <header>
     <img src="logo.png" alt="Fahrschule Limit Logo">
     <h1>Fahrschule Limit</h1>
-    <p>Am Britzer Damm 5 · 12347 Berlin-Neukölln</p>
+    <p>Britzer Damm 5 · 12347 Berlin-Neukölln</p>
   </header>
 
   <nav>
@@ -156,9 +156,13 @@
       <h2>Unsere Kurse</h2>
       <p>Wir bieten Fahrunterricht für:</p>
       <ul>
-        <li>PKW (Klasse B)</li>
+    <li>PKW (Klasse B)</li>
+          <li>PKW (Klasse B197)</li>
+          <li>PKW (Klasse B96)</li>
+          <li>PKW (Klasse BE)</li>
+          <li>PKW (Umschreibung von ausländischen Führerschein)</li>
         <li>Begleitetes Fahren ab 17</li>
-        <li>Auffrischungskurse</li>
+        <li>Auffrischungsfahrten</li>
       </ul>
     </section>
 
